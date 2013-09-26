@@ -36,7 +36,3 @@ The presupposition of the _grundnorm_ is only required if one wants the law to h
 > An anarchist, for instance, who denied the validity of the hypothetical basic norm of positive law…. will view its positive regulation of human relationships… as mere power relations (GT, 413).
 
 ## Commentary
-
-PTL allowed Kelsen to ....
-
-- remarks on customary, international law

@@ -6,9 +6,9 @@ Hayek's theory of jurisprudence is largely a factor of his epistemological theor
 
 Hayek's second critical perspective was against the rationalist belief abstract notions were a product of conscious thought.  Rather he claimed that particulars informed the abstract and that the abstract conception is what made thought possible.  For Hayek, the mind was simply the product of neuro-sensory input intersecting with the environment.
 
-Hayek's final observation was that physical and social systems exhibit emergent properties.  While it may be possible to know of all the rules that guide the system, it is impossible to ever know the multitude of preferences, wants, intentions, and beliefs of individual agents.
+Hayek's final observation was that physical and social systems exhibit emergent properties.  While it may be possible to know of all the rules that guide the system, it is impossible to ever know the multitude of preferences, wants, intentions, and beliefs of individual agents.  We may be able to predict a great deal but will rarely be able to decide what individual actors do.
 
-_Critical Rationalism_ by contrast, accepts the inherent limitations on human knowledge which is itself simply the accumulation of rules and practices.  Rationalists, Hayek claimed, suffered from a _synoptic delusion_.
+_Critical Rationalism_ by contrast, accepts the inherent limitations on human knowledge which is itself simply the accumulation of rules and practices.  Rationalists, Hayek claimed, suffered from a _synoptic delusion_.  The problem isn't a lack of intelligence or processing power, its lack of availability of information.
  
 ## Order
 
@@ -33,7 +33,7 @@ Cosmos however:
 - Provides order but leaves individual elements scope to pursue their own ends
 - Knowledge is dispersed among the elements
 
-Hayek thought that positivism conflated all legal and social order as taxis, the product of intentional design.  The common law however, exhibited much different, spontaneous characteristics. 
+All social theory begins with the identification of order, a result of the actions of men but not as a result of human design.  Hayek thought that positivism conflated all legal and social order as taxis, the product of intentional design.  The common law however, exhibited much different, spontaneous characteristics. 
 
 To these two types of orders, Hayek posited two types of rules.
 
@@ -63,7 +63,7 @@ Public law however is:
 - Directed at agencies
 - Predated by private law
 
-The role of the judge according to Hayek was maintain the evolving common law by interpreting standing social order and expectations.  They must decide...
+Hayek say law as an ecological niche.  The role of the judge according to him was maintain the evolving common law by interpreting standing social order and expectations.  They must decide...
 
 >   ..not whether the parties have obeyed anybody’s will, but whether their actions have conformed to expectations which other parties have reasonably formed because they correspond to the practices on which everyday conduct of the members of the group was based. 
 >
@@ -79,6 +79,11 @@ The proper use of legislation for Hayek then, is limited to
 - Rapidly adapt the law to new situations
 - Provide for administration of the state
 - Provide for public services that spontaneous order does not produce
+- Only act as an impartial umpire
+
+Hayek's theory of knowledge and order intersect in Law. Order within a system is essentially decentralised information. Prices in a free market are like words and grammar in a natural language that communicate intent.  So too, in the common law, a legal judgement is analogous to a market exchange with the judge clarifying expectations among parties. 
+
+The purpose of law then, is to "create a society liberal enough to permit creativity, stable enough to reward creativity, and constraining enough in ways that steer creativity away from zero-sum and negative-sum games and toward positive-sum games: that is, wealth creation, not wealth capture." [^sep]
 
 ## Hayek's Dichotomies
 
@@ -89,3 +94,4 @@ The proper use of legislation for Hayek then, is limited to
     | Law Making    | Common Law    | Legislation       |
     | Justice       | Procedural    | Distributive      |
     
+[^sep]: http://plato.stanford.edu/entries/friedrich-hayek/
