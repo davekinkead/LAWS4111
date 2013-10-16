@@ -35,7 +35,11 @@ He also distinguishes between moralities of duty and aspiration.  Moralities of 
 Internal validity, as defined by the 8 principles, is what determines legal validity.  Laws that conflict with external morality but comply with internal morality are still laws.
 
     How does efficacy affect accounts of law?  Can positivists endorse law that is not followed or not effective?
-    
+
+Internal morality -> morality of aspiration -> supererogative duties
+
+External morality -> morality of duty -> obligatory duties
+
 ## John Finnis
 
 Finnis starts with an account of objective moral realism justified by self evident basic and pre-moral values which are indemonstrable and underived.  They cannot be reasonably denied.
@@ -55,3 +59,29 @@ He was a value pluralist who held that the basic human goods are incommensurable
 We are often faced with choices.  The choices we make are choices of prioritising values.  Being practical means making choices that best reflect the values we want to realise.  Making choices that don't respect or conflict with our values is acting unreasonably.
 
 In this way, there may be more than one correct moral choice.
+
+Finnis outlines nine requirements of practical reason:
+
+- a coherent plan of life
+- no arbitrary discounting or exaggeration between values
+- no arbitrary preferences among persons
+- detachment
+- commitment
+- efficiency within reason
+- respect for every basic value in every act
+- having regard to the common good
+- following one’s conscience.
+
+### Defining Law
+
+One possible approach to defining law would be to catalog all laws in legal systems in history and identify common features they shared.  This would be a very minimal set of common attributes.
+
+Another approach would be to identify the clearest & most obvious cases. This would be the central case of laws.
+
+But which features one selects as paradigmatic is dependent on one's perspective. 
+
+
+He eventually defines law as
+
+- set of rules made by an effective and determinate authority in accordance with rules of recognition.
+- directed to pursue the common good of the community.
