@@ -70,7 +70,7 @@ Challenges to sexual assault prosecutions come from §24 of the Queensland Crimi
 
 ## Pornography & Prostitution
 
-While there is wide feminist agreement on issues of sexual assault, there is signifincant disagreement within feminist literature on the value of pornography.  Some argue that pornography allows the free expression of sexuality, while others posit that it exploits and degrades women.
+While there is wide feminist agreement on issues of sexual assault, there is significant disagreement within feminist literature on the value of pornography.  Some argue that pornography allows the free expression of sexuality, while others posit that it exploits and degrades women.
 
 The harm of pornography is claimed to come from:
 
