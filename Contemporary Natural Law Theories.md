@@ -80,7 +80,6 @@ Another approach would be to identify the clearest & most obvious cases. This wo
 
 But which features one selects as paradigmatic is dependent on one's perspective. 
 
-
 He eventually defines law as
 
 - set of rules made by an effective and determinate authority in accordance with rules of recognition.

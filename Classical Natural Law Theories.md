@@ -2,9 +2,9 @@
 
 The central thesis of natural law theories is that whether something counts as a law _necessarily_ depends on its moral status.  Natural law exists independently of human will and volition, but not necessarily independent of human existence.
 
-Contrast this with legal positivists who hold that there is no necessary connection between law and morality.
+Contrast this with legal positivists who hold that there is no necessary connection between law and morality.  Natural Law Theorists accept that sources play an important role in legal validity, but that the recognised source of law is only one criteria that must be satisfied for validity.
 
-St Augustine formulates the strongest form of natural law theory, _lex injusta non est lex_, or unjust law is no law at all.  Weaker formulations of natural law simply require that duty to obey the law is a moral duty.  An unjust law is simply a defective law.
+St Augustine formulates the strongest form of natural law theory, _lex injusta non est lex_, or unjust law is no law at all.  Weaker formulations of natural law simply require that duty to obey the law is a moral duty.  An unjust law is simply a defective law, but still a law.
 
 Plato's early concept of natural law held that the ultimate ideal form was that of _the good_, and so the purpose of law was to educate citizens about the good.  Any law that failed to do this was a defective law.  It is impossible to understand the law without knowing its purpose.
 
@@ -21,4 +21,3 @@ _Human Law_ by contrast is the law developed by human communities.  It is constr
 This dichotomy of human law allowed Aquinas to distinguish two other types of law.  _Jus Gentium_, or law of nations, are universal principles of human law deduced from natural law principles.  _Jus Civile_, or civil law, are the community specify details of human law such as specifying exact punishments for offences. 
 
 Aquinas' thesis regarding the obligation to obey they is similar to Aristotle's and Augustine's.  _Lex scripta_ can conflict with both divine good and human good.  Unjust laws have no prima facie obligation to obey, but if they are unjust because the conflict with the human good and disobeying would undermine the rule of law, then we should still obey.
-
