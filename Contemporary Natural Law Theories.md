@@ -2,6 +2,8 @@
 
 ## Lon L Fuller
 
+The purpose of law is to ensure social harmony so that humans can pursue their individual and common goals.
+
 > Forgetting purposes is the commonest form of stupidity
 
 > Law is the enterprise of subjecting human conduct to the governance of rules.
@@ -17,7 +19,7 @@ Fuller's Primary Argument
 
 ### Moralities of the Law
 
-Fuller lists eight requirements of the internal morality of the law:
+Fuller lists eight requirements of the internal morality of the law with the fable of King Rex:
     
 - generality, 
 - promulgation, 
@@ -36,9 +38,11 @@ Internal validity, as defined by the 8 principles, is what determines legal vali
 
     How does efficacy affect accounts of law?  Can positivists endorse law that is not followed or not effective?
 
-Internal morality -> morality of aspiration -> supererogative duties
+Internal Morality -> Morality of duty -> Obligatory duties -> Necessary to be called law
 
-External morality -> morality of duty -> obligatory duties
+External Morality -> Morality of aspiration -> Supererogative duties -> Necessary to be called non-defective law
+
+HLA Hart objected that Fuller confused morality with efficacy. Fuller responded that laws that conflicted with morality were unlikely to be effective.
 
 ## John Finnis
 
@@ -84,3 +88,21 @@ He eventually defines law as
 
 - set of rules made by an effective and determinate authority in accordance with rules of recognition.
 - directed to pursue the common good of the community.
+
+A central case of law is one that is satisfies positivist criteria _and_ fulfils it moral purpose to advance the common good.
+
+Any law that doesn't advance the common good has no moral obligation to be obeyed.
+
+### Dworkin
+
+Primarily responded to Hart, arguing that he ignored the idea of principles in law.  Laws are rules, but are rule constrained by principles.
+
+He offers the analogy of judges each writing one chapter of a chain novel.  For the novel to make sense, each judge must derive the principles from preceding chapters and ensure their own specifics are congruent with earlier principles.
+
+There are 3 hard cases of law:
+
+- pre-interpretive
+- interpretive
+- post-interpretive
+
+Legal decision making involves both fit and political morality, and these factors will usually determine a single right answer.

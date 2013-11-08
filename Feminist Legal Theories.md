@@ -2,7 +2,7 @@
 
 ## Defining Feminism
 
-Feminism, or rather feminisms, is/are contested conceptions.  Any broad perspective might include two components however:
+Feminism, or rather feminisms, are contested conceptions.  Any broad perspective might include two components however:
 
 - (Equality thesis) A belief that women _should_ enjoy equal rights to men
 - (Social thesis) A belief that this _is_ presently not the case 
